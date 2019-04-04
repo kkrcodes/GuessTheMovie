@@ -17,7 +17,7 @@ The project is implemented through two classes and one text file:
   <li> <b> <i> movies.txt </i> </b> that contains the list of movies to be considered for the game </li>
  </ul>
 
-<i>Example screenshots showing the game in action:</i>
+<b>Example screenshots showing the game in action:</b>
 
 
 ![Game intro](screenshots/1-gameIntro.PNG?raw=true "Game intro")
