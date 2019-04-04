@@ -21,11 +21,11 @@ The text file - <b> "movies.txt" </b> serves the list of movies to be considered
 Example snapshots showing the game in action:
 
 
-![Game intro](1-gameIntro.PNG?raw=true "Game intro")
+![Game intro](screenshots/1-gameIntro.PNG?raw=true "Game intro")
 
-![Game in progress](2-gameInProgress.PNG?raw=true "Game in progress")
+![Game in progress](screenshots/2-gameInProgress.PNG?raw=true "Game in progress")
 
-![Game won](3-gameWon.PNG?raw=true "Game won")
+![Game won](screenshots/3-gameWon.PNG?raw=true "Game won")
 
-![Game lost](4-gameLost.PNG?raw=true "Game lost")
+![Game lost](screenshots/4-gameLost.PNG?raw=true "Game lost")
 
