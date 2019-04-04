@@ -200,7 +200,7 @@ public class Game {
     }
 
     /**
-     * Checks if the game is over by checking if either the player has won or lost the game
+     * Checks if the game is over by checking if the player has either won or lost the game
      * @return true if player has either won or lost, false otherwise
      */
     public boolean gameOver() {
