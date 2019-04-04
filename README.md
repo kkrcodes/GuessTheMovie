@@ -1,6 +1,6 @@
 # Guess The Movie
 
-Guess-The-Movie project for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283"> Object Oriented Programming in Java (Udacity) </a>
+<i> Guess-The-Movie project for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283"> Object Oriented Programming in Java (Udacity) </a> </i>
 
 This Java project was done as part of the curriculum of Udacity's <i> Object Oriented Programming in Java </i> course.
 
