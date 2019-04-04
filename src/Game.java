@@ -16,7 +16,7 @@ public class Game {
     private int wrongAttempts;
 
     /**
-     * Gets a list of movies from a text file and returns a String array containing the list
+     * Loads a list of movies from a text file and returns it as a String array
      * @param path path to the text file containing the list of movies
      * @return a String array containing the list of movies
      * @throws FileNotFoundException if text file is not found
