@@ -1,6 +1,6 @@
 # Guess The Movie
 
-Object Oriented Programming in Java (Udacity) - "Guess The Movie" [Project]
+<b> Object Oriented Programming in Java (Udacity) - Guess The Movie [Project] </b>
 
 This Java project was done as part of the curriculum of Udacity's Object Oriented Programming in Java course.
 
