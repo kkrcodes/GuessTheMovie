@@ -21,4 +21,4 @@ The text file - <b> "movies.txt" </b> serves the list of movies to be considered
 Example snapshots showing the game in action:
 
 
-![Alt text](relative/path/to/1.PNG?raw=true "Title")
+![Game intro](1.PNG?raw=true "Game intro")
