@@ -86,7 +86,7 @@ public class Game {
 
     /**
      * Sets the value of the given integer to the variable wrongAttempts
-     * @param wrongAttempts an Integer representing the number of wrong attempts made
+     * @param wrongAttempts an integer representing the number of wrong attempts made
      */
     public void setWrongAttempts(int wrongAttempts) {
         this.wrongAttempts = wrongAttempts;
@@ -94,7 +94,7 @@ public class Game {
 
     /**
      * Returns the number of wrong attempts made so far
-     * @return an Integer containing the number of wrong attempts
+     * @return an integer containing the number of wrong attempts
      */
     public int getWrongAttempts() {
         return wrongAttempts;
