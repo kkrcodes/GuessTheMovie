@@ -12,9 +12,9 @@ The rules are simple; the game randomly picks a movie title, and shows the playe
 
 The project is implemented through two classes and one text file:
 <ul>
-  <li> <b> <i> Game.java </i> </b> containing the game logic and methods </li>
-  <li> <b> <i> Main.java </i> </b> implementing game logic and interaction with user </li>
-  <li> <b> <i> movies.txt </i> </b> serving the list of movies to be considered for the game </li>
+  <li> <b> <i> Game.java </i> </b> that contains the game logic and methods </li>
+  <li> <b> <i> Main.java </i> </b> that implements game logic handles user interaction </li>
+  <li> <b> <i> movies.txt </i> </b> that contains the list of movies to be considered for the game </li>
  </ul>
 
 Example screenshots showing the game in action:
