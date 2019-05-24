@@ -1,8 +1,8 @@
 # Guess The Movie
 
-<i> Guess-The-Movie project for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> course </i> 
+<i> Java project for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> course </i> 
 
-This Java project was done as part of Udacity's <i> Object Oriented Programming in Java </i> course.
+This project was done as part of Udacity's <i> Object Oriented Programming in Java </i> course.
 
 Project Summary
 ---------------
