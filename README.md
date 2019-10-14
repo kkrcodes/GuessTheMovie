@@ -17,11 +17,11 @@ The project is implemented through two classes and one text file:
 
 Screenshots
 -----------
-![Game intro](screenshots/1-gameIntro.PNG?raw=true "Game intro")
+![Game intro](screenshots/1-gameIntro.PNG "Game intro")
 
-![Game in progress](screenshots/2-gameInProgress.PNG?raw=true "Game in progress")
+![Game in progress](screenshots/2-gameInProgress.PNG "Game in progress")
 
-![Game won](screenshots/3-gameWon.PNG?raw=true "Game won")
+![Game won](screenshots/3-gameWon.PNG "Game won")
 
-![Game lost](screenshots/4-gameLost.PNG?raw=true "Game lost")
+![Game lost](screenshots/4-gameLost.PNG "Game lost")
 
