@@ -1,6 +1,6 @@
 # Guess The Movie
 
-Mid-course project (done independently) for <i> <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> </i> course.
+ Mid-course project (done independently) for <i> <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> </i> course.
 
 Project Summary
 ---------------
