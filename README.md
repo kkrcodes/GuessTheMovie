@@ -25,3 +25,7 @@ Screenshots
 
 ![Game lost](screenshots/4-gameLost.PNG "Game lost")
 
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
